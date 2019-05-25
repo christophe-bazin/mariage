@@ -1,0 +1,5 @@
+{% if page.lang == 'fr' %}
+  <a href="/pl">{{ site.data.translations.switch[page.lang] }}</a>
+{% else %}
+  <a href="/fr">{{ site.data.translations.switch[page.lang] }}</a>
+{% endif %}
