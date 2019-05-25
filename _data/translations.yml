@@ -1,4 +1,7 @@
 menu:
+  home: 
+    fr: "Accueil"
+    pl: "Home"
   place:
     fr: "Lieu"
     pl: "Place"
