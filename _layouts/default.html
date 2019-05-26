@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{'/assets/css/styles.css' | prepend: site.baseurl}}">
+    <script src="{{'/assets/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
   </head>
   <body>
   	{% include navigation.html %}
