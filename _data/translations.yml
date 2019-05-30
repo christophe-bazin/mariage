@@ -10,6 +10,9 @@ navigation:
   place:
     fr: "Lieu"
     pl: "Place"
+  rsvp:
+    fr: "Formulaire de réponse"
+    pl: "Survey"
   switch:
     fr: "Switch to polish"
     pl: "Passer en français"
