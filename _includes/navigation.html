@@ -6,10 +6,10 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/{{ page.lang }}">{{ site.data.translations.menu.home[page.lang] }}</a>
+        <a class="nav-link" href="{{ site.baseurl }}/{{ page.lang }}">{{ site.data.translations.navigation.home[page.lang] }}</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="place">{{ site.data.translations.menu.place[page.lang] }}</a>
+        <a class="nav-link" href="place">{{ site.data.translations.navigation.place[page.lang] }}</a>
       </li>
     </ul>
 
@@ -17,13 +17,13 @@
       <li class="nav-item">
         {% if page.lang == 'fr' %}
           <a class="nav-link" href="{{ site.baseurl }}/pl">
-            <img src="/mariage/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.switch.fr }}">
-            {{ site.data.translations.switch.fr }}
+            <img src="/mariage/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.fr }}">
+            {{ site.data.translations.navigation.switch.fr }}
           </a>
         {% else %}
           <a class="nav-link" href="{{ site.baseurl }}/fr">
-            <img src="/mariage/assets/img/flag-fr.png" class="flag rounded" alt="{{ site.data.translations.switch.pl }}">
-            {{ site.data.translations.switch.pl }}
+            <img src="/mariage/assets/img/flag-fr.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.pl }}">
+            {{ site.data.translations.navigation.switch.pl }}
           </a>        
         {% endif %}
       </li>
