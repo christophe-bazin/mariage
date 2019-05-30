@@ -1,3 +1,8 @@
+homepage:
+  navigation:
+    fr: "Navigation en français"
+    pl: "Navigation en polonais"
+
 menu:
   home: 
     fr: "Accueil"

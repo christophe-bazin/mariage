@@ -1,3 +1,21 @@
-body {
-	background: red
+/** Homepage **/
+.Homepage {
+  background: #cd853f
+}
+
+.Homepage-flag {
+  text-align: center;
+}
+
+.Homepage-flag a {
+  text-decoration: none;
+}
+
+.Homepage-flag a:first-child {
+  padding-right: 20px;
+}
+
+.Homepage-flag img {
+  width: auto;
+  height: 200px;
 }
