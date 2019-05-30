@@ -19,3 +19,8 @@
   width: auto;
   height: 200px;
 }
+
+/** Navigation **/
+.Navigation .flag {
+  width: 30px
+} 

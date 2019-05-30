@@ -1,8 +1,33 @@
-<ul class="nav">
-  <li class="nav-item">
-    <a class="nav-link" href="{{ site.baseurl }}/{{ page.lang }}">{{ site.data.translations.menu.home[page.lang] }}</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="place">{{ site.data.translations.menu.place[page.lang] }}</a>
-  </li>
-</ul>
+<nav class="Navigation navbar navbar-expand-lg navbar-light bg-light">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/{{ page.lang }}">{{ site.data.translations.menu.home[page.lang] }}</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="place">{{ site.data.translations.menu.place[page.lang] }}</a>
+      </li>
+    </ul>
+
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        {% if page.lang == 'fr' %}
+          <a class="nav-link" href="{{ site.baseurl }}/pl">
+            <img src="/mariage/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.switch.fr }}">
+            {{ site.data.translations.switch.fr }}
+          </a>
+        {% else %}
+          <a class="nav-link" href="{{ site.baseurl }}/fr">
+            <img src="/mariage/assets/img/flag-fr.png" class="flag rounded" alt="{{ site.data.translations.switch.pl }}">
+            {{ site.data.translations.switch.pl }}
+          </a>        
+        {% endif %}
+      </li>
+    </ul>
+
+  </div>
+</nav>
