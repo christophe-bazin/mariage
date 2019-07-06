@@ -10,12 +10,10 @@
     <script src="{{'/assets/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
   </head>
   <body class="Homepage">
-    <div class="container vh-100">
-      <div class="row h-100">
-        <div class="col-12 align-self-center">
-          {{ content }}
-        </div>
-      </div>
+    <div class="Homepage-background"></div>
+    <div class="Homepage-background--overlay"></div>
+    <div class="container">
+      {{ content }}
     </div>
   </body>
 </html>

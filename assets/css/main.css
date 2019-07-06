@@ -1,23 +1,87 @@
 /** Homepage **/
 .Homepage {
-  background: #cd853f
-}
-
-.Homepage-flag {
+  font-family: 'DM Sans', sans-serif;
+  color: #fff;
   text-align: center;
 }
 
-.Homepage-flag a {
+.Homepage-background {
+  background: url(/assets/img/hp-background-m.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  opacity: 0.6;
+  width: 100%;
+  height: 100%;
+}
+@media (min-width: 992px) {
+  .Homepage-background {
+    background: url(/assets/img/hp-background-d.jpg);
+    background-size: cover;   
+    background-repeat: no-repeat;
+  }
+}
+
+.Homepage-background--overlay {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+  background: rgba(220,20,60,.7);
+}
+
+.Homepage-content--intro {
+  font-family: 'Parisienne', cursive;
+  font-size: 3em;
+  font-weight: 400;
+}
+@media (min-width: 768px) {
+  .Homepage-content--intro {
+    font-size: 5em;
+  }
+}
+
+.Homepage-content--date {
+  color: #fff;
+}
+
+@media (min-width: 992px) {
+  .Homepage-content--date .date-block {
+    background: rgba(220,20,60,.3);
+    border: 1px solid rgba(220,20,60,.9);
+    border-radius: 10px;
+  }
+}
+
+.Homepage-content--date .emoji {
+  font-size: 1.5em;
+} 
+@media (min-width: 768px) {
+  .Homepage-content--date .emoji {
+    font-size: 2em;
+  }
+}
+
+.Homepage-content--date .day {
+  font-size: 1.8em;
+} 
+@media (min-width: 768px) {
+  .Homepage-content--date .day {
+    font-size: 2.5em;
+  }
+}
+
+.Homepage-content--flags a {
   text-decoration: none;
 }
 
-.Homepage-flag a:first-child {
-  padding-right: 20px;
-}
-
-.Homepage-flag img {
-  width: auto;
-  height: 200px;
+.Homepage-content--flags img {
+  width: 100%;
+  height: 100%;
+  max-width: 150px;
 }
 
 /** Navigation **/
@@ -38,9 +102,7 @@
 }
 
 .header .baseline {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Parisienne', cursive;
   text-align: center;
   font-size: 36px;
-  font-weight: 600;
-  color: #dc143c;
 }
