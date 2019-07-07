@@ -13,6 +13,12 @@ navigation:
   rsvp:
     fr: "Formulaire de réponse"
     pl: "Survey"
+  gifts:
+    fr: "Cadeaux"
+    pl: "Gifts"
+  infos:
+    fr: "Infos pratiques"
+    pl: "Infos"
   switch:
     fr: "Switch to polish"
     pl: "Passer en français"
