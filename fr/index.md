@@ -13,7 +13,7 @@ lang-ref: mariage-christophe-et-anna
     en l'église paroissiale de <strong>Sławków</strong> (Pologne).</p>
     <p>Veuillez nous rejoindre pour la fête<br />
     qui aura lieu à <strong>Lawendowy Dworek</strong>,<br />
-    situé à Klucze, au 53 rue Bolesławska.</p>
+    situé à Klucze ("clou-tsche"), au 53 rue Bolesławska.</p>
     <hr>
     <h2>Notre histoire</h2>
     <p>Si on nous l'avait dit il y a quelques années, on ne l'aurait pas cru.</p>
