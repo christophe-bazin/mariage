@@ -2,7 +2,7 @@
 layout: default
 title: Accueil
 lang: fr
-lang-ref: mariage-christophe-et-anna
+lang-ref:
 ---
 
 <div class="row">

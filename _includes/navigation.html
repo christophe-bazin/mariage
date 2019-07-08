@@ -30,12 +30,19 @@
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         {% if page.lang == 'fr' %}
-          <a class="nav-link" href="{{ site.baseurl }}/pl">
-            <img src="/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.fr }}">
-            {{ site.data.translations.navigation.switch.fr }}
-          </a>
+          {% if page.lang-ref == 'infos' %}
+            <a class="nav-link" href="{{ site.baseurl }}/pl">
+              <img src="/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.fr }}">
+              {{ site.data.translations.navigation.switch.fr }}
+            </a>
+          {% else %}
+            <a class="nav-link" href="{{ site.baseurl }}/pl/{{ page.lang-ref }}">
+              <img src="/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.fr }}">
+              {{ site.data.translations.navigation.switch.fr }}
+            </a>
+          {% endif %}
         {% else %}
-          <a class="nav-link" href="{{ site.baseurl }}/fr">
+          <a class="nav-link" href="{{ site.baseurl }}/fr/{{ page.lang-ref }}">
             <img src="/assets/img/flag-fr.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.pl }}">
             {{ site.data.translations.navigation.switch.pl }}
           </a>        
