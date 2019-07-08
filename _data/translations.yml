@@ -28,3 +28,9 @@ navigation:
   switch:
     fr: "Switch to polish"
     pl: "Passer en français"
+
+page:
+  index:
+    rsvp:
+      fr: "Formulaire de réponse"
+      pl: "Survey"
