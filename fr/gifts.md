@@ -6,7 +6,7 @@ lang-ref: gifts
 ---
 
 <div class="row">
-  <div class="col-12 text-center">
+  <div class="col-12">
     <p><strong>Nous n'avons pas de liste des cadeaux.</strong></p>
     <p>La coutume polonaise veut que le cadeau rentre dans une enveloppe et soit accompagné de fleurs.</p>
     <p>Nous n'avons rien contre les enveloppes, par contre on aimerait bien éviter les fleurs.</p> 

@@ -10,6 +10,9 @@ navigation:
   home: 
     fr: "Accueil"
     pl: "Home"
+  story:
+    fr: "Notre histoire"
+    pl: "Our story"
   place:
     fr: "Lieu"
     pl: "Place"
