@@ -14,6 +14,9 @@ lang-ref: mariage-christophe-et-anna
     <p>Veuillez nous rejoindre pour la fête<br />
     qui aura lieu à <strong>Lawendowy Dworek</strong>,<br />
     situé à Klucze ("clou-tsche"), au 53 rue Bolesławska.</p>
+    <div class="pt-2">
+      <button type="button" class="btn btn-outline-danger">Formulaire de réponse</button>
+    </div>
   </div>
 </div>
 
