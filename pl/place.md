@@ -13,9 +13,7 @@ lang-ref: place
   </div>
 
   <div class="col-12 col-lg-5">
-    <p>Msza ślubna odbędzie się w kościele parafialnym w Sławkowie,  małym miasteczku na pograniczu Śląska i Małopolski, w którym Panna Młoda spędziła dzieciństwo.<br />
-    Sławków est située à 55 km de Kraków (Cracovie) et son aéroport, à environ 1500 km de Paris.</p>
-    <p>małym miasteczku na pograniczu Śląska i Małopolski, w którym Panna Młoda spędziła dzieciństwo.</p> 
+    <p>Msza ślubna odbędzie się w kościele parafialnym w Sławkowie, małym miasteczku na pograniczu Śląska i Małopolski, w którym Panna Młoda spędziła dzieciństwo.</p>
     <p>Do Sławkowa można dojechać pociągiem (zwłaszcza z Kielc), a także busami/autobusami z Olkusza (a do Olkusza kursują busy z Krakowa)</p>
     <p>Wynajęty autokar będzie kursował między Krakowem, Sławkowem, Kluczami oraz okolicznymi hotelami.</p>
     <p>Lawendowy Dworek znajduje się kilkanaście kilometrów od Sławkowa, i choć nie ma w okolicy pól lawendy, oferuje zdecydowanie najpiękniejszą z sal weselnych, które odwiedziliśmy.</p>
