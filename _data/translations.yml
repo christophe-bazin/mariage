@@ -28,6 +28,9 @@ navigation:
   switch:
     fr: "Zmień na język polski"
     pl: "Passer en français"
+  photos:
+    fr: "Photos"
+    pl: "Fotografie"
 
 page:
   index:
