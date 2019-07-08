@@ -104,5 +104,10 @@
 .header .baseline {
   font-family: 'Parisienne', cursive;
   text-align: center;
-  font-size: 3em;
+  font-size: 2.5em;
+}
+@media (min-width: 768px) { 
+  .header .baseline {
+    font-size: 3em;
+  }
 }
