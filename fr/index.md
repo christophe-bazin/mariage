@@ -13,7 +13,7 @@ lang-ref:
     en l'église paroissiale de <strong>Sławków</strong> (Pologne).</p>
     <p>Veuillez nous rejoindre pour la fête<br />
     qui aura lieu à <strong>Lawendowy Dworek</strong>,<br />
-    situé à Klucze ("clou-tsche"), au 53 rue Bolesławska.</p>
+    situé à Klucze, au 53 rue Bolesławska.</p>
     <div class="pt-2">
       <a role="button" class="btn btn-outline-danger" href="rsvp">{{ site.data.translations.page.index.rsvp[page.lang] }}</a>
     </div>
