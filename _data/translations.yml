@@ -31,6 +31,9 @@ navigation:
   photos:
     fr: "Photos"
     pl: "Fotografie"
+  contact:
+    fr: "Contact"
+    pl: "Kontact"
 
 page:
   index:
