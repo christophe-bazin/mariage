@@ -20,7 +20,7 @@ lang-ref: place
     <p>Les principaux loueurs des voitures sont présents à Cracovie (à l'aéroport et à la gare centrale Kraków Główny)</p>
     <p>Une navette va circuler entre Cracovie, Sławków, la salle du mariage et les hôtels de proximité que vous aurez choisi (désolé, la navette n'ira pas jusqu'à Paris)</p>
     <p>L'église catholique de la <a target="_blank" href="https://www.youtube.com/watch?v=xvJCQGLztnU">Croix Glorieuse à Sławków date du XIIIe siècle</a> 📺.</p> 
-    <p>La salle de fête, Lawendowy Dworek ("Domaine de Lavande"), est située à une quinzaine de kilomètres de Sławków, et bien qu'il n'y a pas vraiment de champs de lavande à proximité, est un vrai petit bijou, qui va nous accueillir pour la soirée inoubliable, "à la polonaise".</p>
+    <p>La salle des fêtes, Lawendowy Dworek ("Domaine de Lavande"), est située à une quinzaine de kilomètres de Sławków, et bien qu'il n'y ait pas vraiment de champs de lavande à proximité, est un vrai petit bijou, qui va nous accueillir pour la soirée inoubliable, "à la polonaise".</p>
     <p><strong>Pour les enfants</strong>, il y aura une salle de jeux avec un animateur jusqu'à minuit.<br />
     <strong>Pour les adultes</strong>, il y aura une salle avec une piste de danse avec un DJ jusqu'à l'aube ou presque.</p>
   </div>
