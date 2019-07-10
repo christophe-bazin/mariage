@@ -2,7 +2,6 @@
 layout: default
 title: Infos pratiques
 lang: fr
-lang-ref: infos
 ---
 
 <div class="row">

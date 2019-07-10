@@ -2,7 +2,6 @@
 layout: default
 title: Contact
 lang: fr
-lang-ref: contact
 ---
 
 <div class="row">

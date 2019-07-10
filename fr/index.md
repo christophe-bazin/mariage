@@ -2,7 +2,7 @@
 layout: default
 title: Accueil
 lang: fr
-lang-ref:
+permalink: /fr
 ---
 
 <div class="row">

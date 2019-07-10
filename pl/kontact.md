@@ -2,7 +2,6 @@
 layout: default
 title: Kontact
 lang: pl
-lang-ref: contact
 ---
 
 <div class="row">

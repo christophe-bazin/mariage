@@ -2,7 +2,6 @@
 layout: default
 title: Lieu
 lang: fr
-lang-ref: place
 ---
 
 <div class="row">
