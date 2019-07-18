@@ -44,8 +44,8 @@ navigation:
       fr: "infos-pratiques" 
       pl: ""
   - title: 
-      fr: "Photos"
-      pl: "Fotografie"
+      fr: ""
+      pl: ""
     url:
       fr: "photos" 
       pl: "fotografie"
