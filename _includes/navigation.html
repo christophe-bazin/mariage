@@ -5,52 +5,28 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/{{ page.lang }}">{{ site.data.translations.navigation.home[page.lang] }}</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="story">{{ site.data.translations.navigation.story[page.lang] }}</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="place">{{ site.data.translations.navigation.place[page.lang] }}</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="rsvp">{{ site.data.translations.navigation.rsvp[page.lang] }}</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="gifts">{{ site.data.translations.navigation.gifts[page.lang] }}</a>
-      </li>
-      {% if page.lang == 'fr' %}
-        <li class="nav-item">
-          <a class="nav-link" href="infos">{{ site.data.translations.navigation.infos[page.lang] }}</a>
-        </li>
-      {% endif %}
-      {% if site.features.gallery == true %}
-        <li class="nav-item">
-          <a class="nav-link" href="photos">{{ site.data.translations.navigation.photos[page.lang] }}</a>
-        </li>
-      {% endif %}
-      <li class="nav-item">
-        <a class="nav-link" href="contact">{{ site.data.translations.navigation.contact[page.lang] }}</a>
-      </li>
+      {% for item in site.data.translations.navigation %}
+        {% if item.title[page.lang] != '' %}
+          <li class="nav-item">
+            {% if page.permalink == item.url[page.lang] or page.name contains item.url[page.lang] %}
+              <a class="nav-link active" href="{{ item.url[page.lang] }}">{{ item.title[page.lang] }}</a>
+            {% else %}
+              <a class="nav-link" href="{{ item.url[page.lang] }}">{{ item.title[page.lang] }}</a>
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
     </ul>
 
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         {% if page.lang == 'fr' %}
-          {% if page.lang-ref == 'infos' %}
-            <a class="nav-link" href="{{ site.baseurl }}/pl">
-              <img src="/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.fr }}">
-              {{ site.data.translations.navigation.switch.fr }}
-            </a>
-          {% else %}
-            <a class="nav-link" href="{{ site.baseurl }}/pl/{{ page.lang-ref }}">
-              <img src="/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.fr }}">
-              {{ site.data.translations.navigation.switch.fr }}
-            </a>
-          {% endif %}
+          <a class="nav-link" href="{{ site.baseurl }}/pl">
+            <img src="/assets/img/flag-pl.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.fr }}">
+            {{ site.data.translations.navigation.switch.fr }}
+          </a>
         {% else %}
-          <a class="nav-link" href="{{ site.baseurl }}/fr/{{ page.lang-ref }}">
+          <a class="nav-link" href="{{ site.baseurl }}/fr">
             <img src="/assets/img/flag-fr.png" class="flag rounded" alt="{{ site.data.translations.navigation.switch.pl }}">
             {{ site.data.translations.navigation.switch.pl }}
           </a>        

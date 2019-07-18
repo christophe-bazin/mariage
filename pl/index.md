@@ -2,12 +2,12 @@
 layout: default
 title: Accueil
 lang: pl
-lang-ref:
+permalink: /pl
 ---
 
 <div class="row">
   <div class="col-12 text-center">
-    <p>Witajcie na naszej ślubnej stronie  ! </p>
+    <p>Witajcie na naszej ślubnej stronie  !</p>
     <p>Zapraszamy Was bardzo serdecznie na nasz ślub kościelny,<br />
       który odbędzie się w <strong>sobotę 25 lipca 2020 o 15:00</strong>,<br />
     w kościele pw. Podwyższenia Krzyża Św. w <strong>Sławkowie</strong>.</p>

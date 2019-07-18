@@ -7,33 +7,58 @@ homepage:
     pl: "Więcej informacji"
 
 navigation:
-  home: 
-    fr: "Accueil"
-    pl: "Strona główna"
-  story:
-    fr: "Notre histoire"
-    pl: "Nasza historia"
-  place:
-    fr: "Lieu"
-    pl: "Jak dojechać"
-  rsvp:
-    fr: "Formulaire de réponse"
-    pl: "Odpowiedź na zaproszenie"
-  gifts:
-    fr: "Cadeaux"
-    pl: "Prezenty"
-  infos:
-    fr: "Infos pratiques"
-    pl: ""
-  switch:
-    fr: "Zmień na język polski"
-    pl: "Passer en français"
-  photos:
-    fr: "Photos"
-    pl: "Fotografie"
-  contact:
-    fr: "Contact"
-    pl: "Kontact"
+  - title: 
+      fr: "Accueil"
+      pl: "Strona główna"
+    url:
+      fr: "/fr" 
+      pl: "/pl"
+  - title: 
+      fr: "Notre histoire"
+      pl: "Nasza historia"
+    url:
+      fr: "notre-histoire" 
+      pl: "nasza-historia"
+  - title: 
+      fr: "Lieu"
+      pl: "Jak dojechać"
+    url:
+      fr: "lieu" 
+      pl: "jak-dojechac"
+  - title: 
+      fr: "Formulaire de réponse"
+      pl: "Odpowiedź na zaproszenie"
+    url:
+      fr: "formulaire-de-reponse" 
+      pl: "odpowiedz-na-zaproszenie"
+  - title: 
+      fr: "Cadeaux"
+      pl: "Prezenty"
+    url:
+      fr: "cadeaux" 
+      pl: "prezenty"
+  - title: 
+      fr: "Infos pratiques"
+      pl: ""
+    url:
+      fr: "infos-pratiques" 
+      pl: ""
+  - title: 
+      fr: "Photos"
+      pl: "Fotografie"
+    url:
+      fr: "photos" 
+      pl: "fotografie"
+  - title: 
+      fr: "Contact"
+      pl: "Kontact"
+    url:
+      fr: "contact" 
+      pl: "kontact"
+
+switch: 
+  fr: "Zmień na język polski"
+  pl: "Passer en français"
 
 page:
   index:

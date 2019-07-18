@@ -2,7 +2,6 @@
 layout: default
 title: Notre histoire
 lang: fr
-lang-ref: story
 ---
 
 <div class="row">

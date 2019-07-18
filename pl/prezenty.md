@@ -2,7 +2,6 @@
 layout: default
 title: Prezenty
 lang: pl
-lang-ref: gifts
 ---
 
 <div class="row">

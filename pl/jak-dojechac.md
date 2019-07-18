@@ -2,7 +2,6 @@
 layout: default
 title: Jak dojechać
 lang: pl
-lang-ref: place
 ---
 
 <div class="row">

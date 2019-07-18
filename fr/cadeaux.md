@@ -2,7 +2,6 @@
 layout: default
 title: Cadeaux
 lang: fr
-lang-ref: gifts
 ---
 
 <div class="row">
