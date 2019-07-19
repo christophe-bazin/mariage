@@ -2,7 +2,7 @@
 layout: default
 title: Accueil
 lang: pl
-permalink: /pl
+permalink: /pl/
 ---
 
 <div class="row">

@@ -8,10 +8,10 @@
       {% for item in site.data.translations.navigation %}
         {% if item.title[page.lang] != '' %}
           <li class="nav-item">
-            {% if page.permalink == item.url[page.lang] or page.name contains item.url[page.lang] %}
-              <a class="nav-link active" href="{{ site.baseurl }}/{{ page.lang }}/{{ item.url[page.lang] }}">{{ item.title[page.lang] }}</a>
+            {% if page.permalink contains item.url[page.lang] or page.name contains item.url[page.lang] %}
+              <a class="nav-link active" href="{{ item.url[page.lang] }}">{{ item.title[page.lang] }}</a>
             {% else %}
-              <a class="nav-link" href="{{ site.baseurl }}/{{ page.lang }}/{{ item.url[page.lang] }}">{{ item.title[page.lang] }}</a>
+              <a class="nav-link" href="{{ item.url[page.lang] }}">{{ item.title[page.lang] }}</a>
             {% endif %}
           </li>
         {% endif %}
