@@ -19,6 +19,7 @@ url: "https://bazin.pl" # the base hostname & protocol for your site, e.g. http:
 # Build settings
 markdown: kramdown
 theme: minima
+gallery: false
 plugins:
   - jekyll-feed
 
