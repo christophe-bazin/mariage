@@ -25,12 +25,6 @@ navigation:
     url:
       fr: "lieu" 
       pl: "jak-dojechac"
-#  - title: 
-#      fr: "Formulaire de réponse"
-#      pl: "Odpowiedź na zaproszenie"
-#    url:
-#      fr: "formulaire-de-reponse" 
-#      pl: "odpowiedz-na-zaproszenie"
   - title: 
       fr: "Cadeaux"
       pl: "Prezenty"
