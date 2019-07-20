@@ -86,10 +86,14 @@
 
 /** Navigation **/
 .Navigation .flag {
-  width: 30px
+  width: 30px;
 } 
 
 /** Header **/
+.header {
+  margin-top: 56px;
+}
+
 .header .background {
   background: url(/assets/img/ban.jpg);
   width: 100%;
