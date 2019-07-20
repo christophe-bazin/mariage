@@ -7,7 +7,10 @@ lang: pl
 <div class="row">
   {% if site.gallery == false %}
     <div class="col-12 text-left">
-      <p>Quelques heures ou quelques jours après le mariage (le temps pour nous de nous reposer), vous pourrez retrouver ici une sélection des meilleurs moments de cette journée !</p>
+      <p>Quelques heures ou quelques jours après le mariage (le temps pour nous de nous reposer), vous pourrez trouver ici une sélection des meilleurs moments de cette journée !</p>
+    </div>
+    <div class="col-12 text-center">
+      {% include image-gallery.html folder="/uploads/waiting" %}
     </div>
   {% else %}
     <div class="col-12 text-center">
