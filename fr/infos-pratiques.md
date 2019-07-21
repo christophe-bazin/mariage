@@ -7,7 +7,7 @@ lang: fr
 <div class="row">
   <div class="col-12">
     <ul>
-        <li><strong>Visa :</strong> pas besoin pour les citoyens de l'Union Européenne ainsi que pour nos invités ayant la nationnalité mexicaine</li>
+        <li><strong>Visa :</strong> pas besoin pour les citoyens de l'Union Européenne ainsi que pour nos invités ayant la nationnalité mexicaine ou bretonne. Nos amis thaïlandais devront quant à eux, faire une demande de Visa.</li>
         <li><strong>La monnaie :</strong> Złoty (zł, PLN), 1 PLN = ~ 0,25 EUR</li>
         <li><strong>La langue :</strong> imprononçable (mais une bonne partie de la population parle anglais)</li>
         <li><strong>Décalage horaire :</strong> aucun par rapport à la France, mais le soleil se lève beaucoup plus tôt (dès 4h en été)</li>
