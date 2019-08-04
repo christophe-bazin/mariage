@@ -44,7 +44,7 @@ permalink: /pl/
         w kościele pw. Podwyższenia Krzyża Św. w <strong>Sławkowie</strong>.</p>
         <p>Przyjęcie odbędzie się w <strong>Lawendowym Dworku</strong> w Kluczach, przy ul.<br />Bolesławskiej 53A.</p>
        {% else %}
-        <p>Merci à tous pour ce moment inoubliable !<br/>Voici quelques photos de cette magnifique journée...</p>
+        <p>Dziękujemy wszystkim za te wspaniałe chwile!<br/>Oto kilka zdjęć zrobionych tego cudownego dnia...</p>
         {% include image-gallery.html folder="/uploads/album" %}
       </div>
     {% endif %}   
