@@ -45,10 +45,10 @@ navigation:
       pl: "fotografie"
   - title: 
       fr: "Contact"
-      pl: "Kontact"
+      pl: "Kontakt"
     url:
       fr: "contact" 
-      pl: "kontact"
+      pl: "kontakt"
 
 switch: 
   fr: "Zmień na język polski"

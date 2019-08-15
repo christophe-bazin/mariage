@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kontact
+title: Kontakt
 lang: pl
 ---
 
