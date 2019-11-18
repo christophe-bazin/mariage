@@ -20,17 +20,23 @@ navigation:
       fr: "notre-histoire" 
       pl: "nasza-historia"
   - title: 
+      fr: "Cadeaux"
+      pl: "Prezenty"
+    url:
+      fr: "cadeaux" 
+      pl: "prezenty"
+  - title: 
       fr: "Lieu"
       pl: "Jak dojechać"
     url:
       fr: "lieu" 
       pl: "jak-dojechac"
   - title: 
-      fr: "Cadeaux"
-      pl: "Prezenty"
+      fr: "Comment venir"
+      pl: ""
     url:
-      fr: "cadeaux" 
-      pl: "prezenty"
+      fr: "venir-en-pologne" 
+      pl: ""
   - title: 
       fr: "Infos pratiques"
       pl: ""
