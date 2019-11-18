@@ -15,7 +15,7 @@ lang: fr
     <p>La cérémonie aura lieu à Sławków (ça se prononce "soif-couffe"), petite ville d'environ 7000 habitants où la mariée a passé son enfance.<br />
     Sławków est située à 55 km de Kraków (Cracovie) et son aéroport, à environ 1500 km de Paris.</p>
     <p>L'aéroport de Cracovie offre des connexions avec Paris, Beauvais, Bordeaux, Dublin et Varsovie.
-    <div><a href="venir-en-pologne" class="btn btn-info">✈️ Comment venir en Pologne ? C'est ici !</a></div><br />
+    <div><a href="venir-en-pologne" class="btn btn-danger">✈️ Comment venir en Pologne ? C'est ici !</a></div><br />
     Il est difficile de venir à Sławków en train, on déconseille également des bus via Olkusz ("ol-couche") car ce n'est pas facile de s'y retrouver ne parlant pas la langue.</p>
     <p>Les principaux loueurs des voitures sont présents à Cracovie (à l'aéroport et à la gare centrale Kraków Główny)</p>
     <p>Une navette va circuler entre Cracovie, Sławków, la salle du mariage et les hôtels de proximité que vous aurez choisi (désolé, la navette n'ira pas jusqu'à Paris)</p>
