@@ -17,7 +17,7 @@ lang: fr
     </ul>
     <p>Ces deux vols du dimanche devraient être <strong>affichés environ 4 mois à l'avance</strong> car pour le moment ils sont affichés jusqu'au 22 mars.</p>
     <p>Après, rien ne vous empêche de regarder les autres compagnies, les autres moyens de transport... Mais on vous conseille quand même l'avion.</p>
-    <p>Et pour vous faciliter la tâche, on va a mis à droite un petit widget vous permettant de chercher rapidement un vol pour venir :)</p>
+    <p>Et pour vous faciliter la tâche, on va a mis sur cette page un petit widget vous permettant de chercher rapidement un vol pour venir :)</p>
   </div>
 
   <div 
