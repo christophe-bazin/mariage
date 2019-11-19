@@ -15,7 +15,7 @@ lang: fr
       <li>Le vol EZY3816 qui part le midi à 12h10.</li>
       <li>Et il y a aussi plusieurs vols pour le lundi.</li>
     </ul>
-    <p>Ces deux vols du dimanche devraient être <strong>affichés environ 4 mois à l'avance</strong> car pour le moment ils sont affichés jusqu'au 22 mars.</p>
+    <p>Ces deux vols du dimanche devraient être <strong>affichés environ 4 mois à l'avance</strong>.</p>
     <p>Après, rien ne vous empêche de regarder les autres compagnies, les autres moyens de transport... Mais on vous conseille quand même l'avion.</p>
     <p>Et pour vous faciliter la tâche, on va a mis sur cette page un petit widget vous permettant de chercher rapidement un vol pour venir :)</p>
   </div>
