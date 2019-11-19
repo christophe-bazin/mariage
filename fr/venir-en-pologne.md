@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Venir en Pologne
+title: Comment venir en Pologne
 lang: fr
 ---
 
